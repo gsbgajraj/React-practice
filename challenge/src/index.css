@@ -1,0 +1,10 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+
+.img-div{
+  justify-content: center;
+  display: flex;
+}
+.img-div img{
+    width: 250px;
+    height: 300px;
+}
